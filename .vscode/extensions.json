@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "octref.vetur",
+    "dbaeumer.vscode-eslint",
+    "prograhammer.tslint-vue",
+    "eg2.vscode-npm-script",
+    "christian-kohler.npm-intellisense",
+    "stevencl.adddoccomments"
+  ]
+}

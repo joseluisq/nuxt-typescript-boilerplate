@@ -1,0 +1,39 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "editor.formatOnSave": true,
+  "editor.autoIndent": false,
+  "editor.rulers": [
+    120
+  ],
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "git.ignoreLimitWarning": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "node_modules": true,
+    "test-lib": true,
+    "lib": true,
+    "coverage": true,
+    "npm": true,
+    ".nuxt/**": true,
+    "dist/**": true
+  },
+  "search.exclude": {
+    ".nuxt/**": true,
+    "dist/**": true
+  },
+  "files.associations": {
+    "*.vue": "vue"
+  },
+  "javascript.format.enable": false,
+  "javascript.validate.enable": false,
+  "typescript.format.enable": true,
+  "tslint.autoFixOnSave": true,
+  "vetur.format.defaultFormatter.ts": "vscode-typescript",
+  "vetur.format.defaultFormatter.js": "none",
+  "eslint.autoFixOnSave": true
+}
